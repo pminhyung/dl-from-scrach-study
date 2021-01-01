@@ -9,5 +9,5 @@
 [Matthew0633 밑바닥 딥러닝 스터디 발표자료 보기](https://matthew0633.tistory.com/)
 
 ## 3. Reference
-- [밑바닥부터시작하는딥러닝1](http://www.yes24.com/Product/Goods/35519439)
-- [밑바닥부터시작하는딥러닝2](http://www.yes24.com/Product/Goods/74222453)
+- [밑바닥부터시작하는딥러닝1(Deep Learning from scratch 1)](http://www.yes24.com/Product/Goods/35519439)
+- [밑바닥부터시작하는딥러닝2(Deep Learning from scratch 1)](http://www.yes24.com/Product/Goods/74222453)
