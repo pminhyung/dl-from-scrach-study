@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../-study-KaggleKernel/.idea/-study-KaggleKernel.iml" filepath="$PROJECT_DIR$/../../-study-KaggleKernel/.idea/-study-KaggleKernel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../deep-learning-from-scratch-2/.idea/deep-learning-from-scratch-2.iml" filepath="$PROJECT_DIR$/../../deep-learning-from-scratch-2/.idea/deep-learning-from-scratch-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dl_git_reposit.iml" filepath="$PROJECT_DIR$/.idea/dl_git_reposit.iml" />
     </modules>
   </component>
